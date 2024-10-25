@@ -32,7 +32,7 @@ A lightweight, flexible, and type-safe validation framework for Python applicati
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/python-validation-framework.git
+git clone [https://github.com/yourusername/python-validation-framework.git](https://github.com/jomardyan/Python-Validation-Framework)
 ```
 
 2. Install the package:
@@ -305,7 +305,7 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install development dependencies
-pip install -r requirements-dev.txt
+pip install -r requirements.txt
 
 # Run tests
 pytest
