@@ -1,0 +1,11 @@
+# Core Python typing support
+typing-extensions>=4.5.0
+
+# Date and time handling
+python-dateutil>=2.8.2
+
+# Decimal handling for currency
+decimal>=1.70
+
+# URL parsing and validation
+urllib3>=2.0.0
